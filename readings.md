@@ -23,8 +23,11 @@ https://arxiv.org/pdf/2406.17759
 ## Supplementary Readings:
 
 https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J
+
 https://arena3-chapter1-transformer-interp.streamlit.app/%5B1.2%5D_Intro_to_Mech_Interp
+
 https://arxiv.org/abs/2406.11717
+
 https://arxiv.org/pdf/2405.08366
 
 
@@ -35,6 +38,7 @@ If you have no experience with neural networks whatsoever, this is a really grea
 
 ### Neural Networks
 https://www.ibm.com/topics/neural-networks
+
 https://www.youtube.com/watch?v=aircAruvnKk
 
 ### Transformers 
