@@ -6,4 +6,4 @@ output = 'happiness.csv'
 
 happinessSearch = dataSet[dataSet[rank']==1] #finding "1" = joy/happiness 
 
-print(findingOnes) 
+print(happinessSearch) 
